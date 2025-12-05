@@ -1,2 +1,2 @@
 # TO-DO-List
-A to-do list is a simple organizational tool listing tasks or action items to complete, often prioritized by importance or due date to boost productivity.
+A simple to-do list web app built with HTML, CSS, and JavaScript. Users add tasks via an input field and button, mark them complete with checkboxes, and delete finished ones from a dynamic list.
